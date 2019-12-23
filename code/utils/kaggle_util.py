@@ -119,8 +119,8 @@ def get_data(user_sample, win_code, list_of_user_activities, list_of_event_code,
             # then, check the numbers of wins and the number of losses
             true_attempts = all_attempts['event_data'].str.contains('true').sum()
             false_attempts = all_attempts['event_data'].str.contains('false').sum()
-            print(true_attempts)
-            print(false_attempts)
+#             print(true_attempts)
+#             print(false_attempts)
             
             # copy a dict to use as feature template, it's initialized with some itens: 
             # {'Clip':0, 'Activity': 0, 'Assessment': 0, 'Game':0}
