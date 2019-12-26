@@ -783,3 +783,83 @@ bagging_temperature 0.04011997089636943
 0.9803028570468971
 
 Max para {'target': -0.9793976409751237, 'params': {'bagging_temperature': 0.059435076490299464, 'depth': 16.611146255021094, 'l2_leaf_reg': 74.13729306449513, 'max_leaves': 20.176858957276306}}
+
+train895.csv
+
+train895.csv
+
+train895.csv
+
+train895.csv
+
+train895.csv
+
+train895.csv
+
+train895.csv
+depth 7
+max_leaves 31
+l2_leaf_reg 94.7371395873319
+bagging_temperature 1.0463048774176458
+0.9884264017132648
+
+
+train895.csv
+
+train895.csv
+depth 6
+max_leaves 31
+l2_leaf_reg 58.98651333954855
+bagging_temperature 2.8095421939280563
+0.9997314810186404
+
+depth 10
+max_leaves 31
+l2_leaf_reg 22.248334990978833
+bagging_temperature 0.7537492429586489
+0.9871715098916609
+
+depth 9
+max_leaves 31
+l2_leaf_reg 33.305499747472716
+bagging_temperature 2.2719545499282714
+0.996401683701781
+
+depth 6
+max_leaves 31
+l2_leaf_reg 83.63235480509228
+bagging_temperature 3.708790889643628
+1.0039488490429895
+
+depth 10
+max_leaves 31
+l2_leaf_reg 90.05509305946053
+bagging_temperature 3.787474584877179
+1.0013002812029022
+
+depth 7
+max_leaves 31
+l2_leaf_reg 65.28899456264527
+bagging_temperature 4.839889539494065
+1.0152416329359146
+
+depth 9
+max_leaves 31
+l2_leaf_reg 83.33987604855317
+bagging_temperature 2.064216472358174
+0.9928783346126299
+
+depth 11
+max_leaves 31
+l2_leaf_reg 98.92582247363602
+bagging_temperature 0.3065703143145088
+0.9867341555241379
+
+depth 5
+max_leaves 31
+l2_leaf_reg 16.68236440632166
+bagging_temperature 2.973860223261358
+1.00682862981894
+
+
+train_1225.csv
