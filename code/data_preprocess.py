@@ -8,8 +8,6 @@ import numpy as np
 import pandas as pd
 from IPython.display import display
 
-import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
 
 from utils import kaggle_util
 
